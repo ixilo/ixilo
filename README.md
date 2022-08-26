@@ -1,3 +1,6 @@
+![ixilo's github stats](https://github-readme-stats.vercel.app/api?username=ixilo&theme=dracula&hide=commits)
+
+
 - 👋 Hi, I’m @ixilo
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning javascript
@@ -8,5 +11,3 @@
 ixilo/ixilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![ixilo's github stats](https://github-readme-stats.vercel.app/api?username=ixilo&theme=dracula&hide=commits)
