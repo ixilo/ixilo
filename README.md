@@ -1,5 +1,6 @@
 ![ixilo's github stats](https://github-readme-stats.vercel.app/api?username=ixilo&theme=dracula&hide=commits)
 
+![ixilo visitors](https://visitor-badge.glitch.me/badge?page_id=ixilo)
 
 - 👋 Hi, I’m @ixilo
 - 👀 I’m interested in web design
